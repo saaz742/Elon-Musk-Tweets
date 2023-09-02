@@ -9,7 +9,7 @@ Get tweets from Twitter API or prepare a dataset and analyze it.
 
 First, I get tweets from Twitter API and save them in a CSV file, but Twitter API is not free, so it is better to use a prepared dataset.
 
-Here I use the Kaggle dataset to get tweets and analysis them. ("elonmusk.csv" include 12205 tweet with other data about each tweet - "musk-tweets-2010-to-2018.csv" include 6094 tweets)
+Here I use the Kaggle dataset to get tweets and analyze them. (["elonmusk.csv"](https://github.com/saaz742/elon-musk-tweets/blob/main/data/elonmusk.csv) include 12205 tweet with other data about each tweet - ["musk-tweets-2010-to-2018.csv"](https://github.com/saaz742/elon-musk-tweets/blob/main/data/musk-tweets-2010-to-2018.csv) include 6094 tweets)
 
 ## Table of contents
 - Load the data
